@@ -1,1 +1,17 @@
 # programaci-nVisualVes
+
+
+Nombre	Apellido(s)	Número de ID	Institución	Departamento	Dirección de correo
+PETER DAVID	CARPIO ALMEIDA				0956731491@mi.moodle.invalid
+LUIS DAVID	CASTRO DUQUE				0955114756@mi.moodle.invalid
+NALLELY ANAHIS	CASTRO MACIAS				0957161151@mi.moodle.invalid
+ADRIANA ELIZABETH	HERRERA ALVARADO				0940418429@mi.moodle.invalid
+GINGER NICOLE	JIMENEZ PEÑAFIEL				0940209414@mi.moodle.invalid
+WILMER EZEQUIEL	MORA LEON				0929206977@mi.moodle.invalid
+ROSA MARIA	NARANJO SELLAN				0928155043@mi.moodle.invalid
+CONNIE DAYANA	QUIJIJE JARA				0929939627@mi.moodle.invalid
+TELMO DANIEL	ROMO CHAVEZ				0941722787@mi.moodle.invalid
+GERSON ELIAS	SAN LUCAS SALAZAR				0940682743@mi.moodle.invalid
+ALEXIS LILIBETH	SANCHEZ GUARANDA				0956371033@mi.moodle.invalid
+JANNELA ISABEL	TORRES CRESPO				0928928787@mi.moodle.invalid
+JUAN IGNACIO	TUMBACO ORTIZ				jtumbacoo.istjba@gmail.com
